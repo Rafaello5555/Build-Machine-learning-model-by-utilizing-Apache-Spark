@@ -1,0 +1,2 @@
+# Build-Machine-learning-model-by-utilizing-Apache-Spark
+We can interact with  Spark by using different languages such as Python,R, Scala, Java.  I have used Python in this project. The project is about  developing  a model which will predict whether or not a given flight will be delayed. The data contain  50000 records. We  wrangle the data to see if we have missing values, categorical values. In a sense we make data preparation.  
