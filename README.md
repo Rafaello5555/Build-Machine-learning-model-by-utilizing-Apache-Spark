@@ -11,3 +11,6 @@ carrier — carrier
 depart — departure time (decimal hour)
 duration — expected duration (minutes)
 delay — delay (minutes)
+
+
+We  wrangle the data to see if we have missing values, categorical values. In a sense we make data preparation.  Next step is to build the model.  To objectively assess a Machine Learning model we need to be able to test it on an independent set of data. We can't use the same data that we used to train the model: of course the model will perform (relatively) well on those data. Train the data and fit it to the training dataset and make predictions based on the  model. At the end we evaluate the performance of the model using confusion matrix.  Calculate the elements of the confusion matrix and  get accuracy .
